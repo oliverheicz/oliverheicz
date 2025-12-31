@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎯 I’m currently working on:<br>Machine learning projects using Python (Jupyter) focusing on predictive analytics. Previously worked with RStudio during university courses.<br><br>🤝 I’m looking to collaborate on:<br>Data-driven projects, automation tools, and open-source projects related to product management, sustainability, supply chain, analytics, or AI solutions.<br><br>🤝 I’m looking for help with:<br>Expanding real-world project exposure indata analysis, especially in business analytics and business intelligence or IT project management.<br>Advancing my skills in Python, SQL, and R<br><br>💬 Ask me about:<br>Data analytics, finance & accounting workflows, tax technology<br><br>⚡ Fun fact:<br>I won a Tech Sustainability Hackathon for building an AI-powered sustainability reporting tool.
+🎯 I’m currently working on:<br>Machine learning projects using Python (Jupyter) focusing on predictive analytics. Previously worked with RStudio during university courses.<br><br>🤝 I’m looking to collaborate on:<br>Data-driven projects, automation tools, and open-source projects related to product management, sustainability, supply chain, analytics, or AI solutions.<br><br>🤝 I’m looking for help with:<br>Expanding real-world project exposure in data analysis, especially in business analytics and business intelligence or IT project management.<br>Advancing my skills in Python, SQL, and R<br><br>💬 Ask me about:<br>Data analytics, finance & accounting workflows, tax technology<br><br>⚡ Fun fact:<br>I won a Tech Sustainability Hackathon for building an AI-powered sustainability reporting tool.
 
 
 ## 🌐 Socials:
